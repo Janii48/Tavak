@@ -19,3 +19,17 @@ img {
     font-weight: 100px;
     border-radius: 5px;
 }
+
+thead {
+    background-color: rgb(160, 150, 207);
+    color: darkblue;
+    
+}
+
+.jsz {
+    background-color: lightgoldenrodyellow;
+}
+
+.bsz {
+    background-color: rgb(177, 170, 209);
+}
