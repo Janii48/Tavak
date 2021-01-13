@@ -1,0 +1,21 @@
+table {
+    border: 1px solid lightblue;
+    border-radius: 3%;
+    margin: auto;
+}
+
+td {
+    border: 1px solid lightblue;
+    border-radius: 10%;
+}
+
+th {
+    border: 1px solid lightblue;
+    border-radius: 10%;
+}
+
+img {
+    height: 90px;
+    font-weight: 100px;
+    border-radius: 5px;
+}
