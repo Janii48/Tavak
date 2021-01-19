@@ -30,27 +30,31 @@ img {
 }
 
 thead {
-    background-color: rgb(160, 150, 207);
+    background-color: #9B9CFD;
     color: darkblue;
     
 }
 
 .jsz {
-    background-color: rgba(184, 184, 170, 0.904);
+    background-color: #D5D6D6;
 }
 
 .bsz {
-    background-color: rgb(177, 170, 209);
+    background-color: #B9BAFD;
     text-align: left;
 }
 
 td {
     text-align: center;
-    background-color: rgba(170, 165, 179, 0.705);
+    background-color: #D6D6FE;
     width: 100px;
     height: 40px;
 }
 
 #rd {
     color: red;
+}
+
+#vt {
+    background-color: #B8B8B8;
 }
