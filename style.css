@@ -1,23 +1,32 @@
 table {
-    border: 1px solid lightblue;
-    border-radius: 3%;
+    border: 2px solid rgb(162, 147, 173);
+    border-radius: 1%;
     margin: auto;
+    background-color: rgb(237, 234, 247);
+    height: 400px;
+    border-spacing: 3px;
 }
 
 td {
-    border: 1px solid lightblue;
-    border-radius: 10%;
+    border-radius: 5%;
+    box-shadow: 2px 2px darkblue;
+    color: darkblue;    
 }
 
 th {
-    border: 1px solid lightblue;
-    border-radius: 10%;
+    
+    border-radius: 5%;
+    box-shadow: 2px 2px darkblue;
+    width: 100px;
+    height: 40px;
+    color: darkblue;
 }
 
 img {
-    height: 90px;
-    font-weight: 100px;
+    height: 70px;
+    width: 100px;
     border-radius: 5px;
+    
 }
 
 thead {
@@ -27,9 +36,21 @@ thead {
 }
 
 .jsz {
-    background-color: lightgoldenrodyellow;
+    background-color: rgba(184, 184, 170, 0.904);
 }
 
 .bsz {
     background-color: rgb(177, 170, 209);
+    text-align: left;
+}
+
+td {
+    text-align: center;
+    background-color: rgba(170, 165, 179, 0.705);
+    width: 100px;
+    height: 40px;
+}
+
+#rd {
+    color: red;
 }
